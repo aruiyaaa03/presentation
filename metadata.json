@@ -1,0 +1,6 @@
+{
+  "name": "UniCover Studio - University Cover Page Generator",
+  "description": "Design and customize university assignment and presentation cover pages with custom logos, academic themes, and print-ready A4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
